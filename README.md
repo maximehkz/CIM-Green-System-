@@ -18,7 +18,11 @@ Step 3:
 
 Run the Start class and then you will be able to use the CIM Green System :) ! 
 
-Contributors: 
+Contributors:
+
+
 Ivan Tarabykin 
+
 Carlson Chang
+
 Maxime Hakizimana 
