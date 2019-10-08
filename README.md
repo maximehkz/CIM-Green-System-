@@ -1,6 +1,6 @@
 # CIM-Green-System-
 Step 1: 
-Create a new Java project called "assignment" 
+Create a new Java project called "assignment"  (By default the package is assignment you can change to a different if you want but make sure to change the other ones too) 
 
 Step 2: 
 Into the Java project create the following classes: 
