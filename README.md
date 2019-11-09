@@ -1,4 +1,6 @@
 # CIM-Green-System-
+
+(PROJECT CREATED AND RUNS THROUGH ECLIPSE ENVIRONMENT)
 Step 1: 
 Create a new Java project
 
