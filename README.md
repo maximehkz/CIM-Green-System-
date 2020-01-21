@@ -27,4 +27,4 @@ Ivan Tarabykin
 
 Carlson Chang
 
-Maxime Hakizimana 
+Maxime-William Hakizimana 
